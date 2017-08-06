@@ -20,6 +20,15 @@ body {
   /*flex-grow: 3;*/
   border-bottom: 1px solid #fdffe7;
   background-color: #097505;
+  color: #fdffef;
+  font-size: 30px;
+  font-family: 'Dosis', sans-serif;
+  font-weight: lighter;
+  display: flex;
+  /*TODO fix aligment issues with the answer*/
+  /*justify-content: right;*/
+  /*text-align: right;*/
+  align-items: center;
 }
 
 .light {
