@@ -12,6 +12,7 @@ function clickNumber() {
 
 // const operators = ["+", "-", "*", "/"];
 
+zero.addEventListener("click", clickNumber)
 one.addEventListener("click", clickNumber);
 two.addEventListener("click", clickNumber);
 three.addEventListener("click", clickNumber);
